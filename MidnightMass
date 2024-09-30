@@ -1,12 +1,12 @@
 {
   "name": "Midnight Mass",
   "symbol": "MASS",
-  "uri": "https://raw.githubusercontent.com/MidnightMassPlatform/MidnightMassNew/main/MidnightMassMetadata.json",  
+  "uri": "https://raw.githubusercontent.com/MidnightMassPlatform/MidnightMassNew/refs/heads/main/MidnightMass",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/MidnightMassPlatform/MidnightMassNew/main/MidnightMassSymbol.png",  
+  "image": "https://raw.githubusercontent.com/MidnightMassPlatform/MidnightMassNew/refs/heads/main/MidnightMassSymbol.png",
   "creators": [
     {
-      "address": "BTgUf5mfKodDYnB3edxt3hhULQ9hA9SZtCfH5qTf1Ev9",
+      "address": "Ea8fh4f4B17j3UGhkvpnfr3KCcXEzJdPseK2vzCie5fy",
       "verified": true,
       "share": 100
     }
@@ -14,7 +14,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/MidnightMassPlatform/MidnightMassNew/main/MidnightMassSymbol.png",  
+        "uri": "https://raw.githubusercontent.com/MidnightMassPlatform/MidnightMassNew/refs/heads/main/MidnightMassSymbol.png",
         "type": "image/png"
       }
     ],
