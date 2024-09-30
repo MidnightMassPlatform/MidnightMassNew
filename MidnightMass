@@ -1,0 +1,13 @@
+{
+  "name": "Midnight Mass",
+  "symbol": "MASS",
+  "uri": "",  // If you're not hosting an image, leave this blank or fill it later.
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "Ea8fh4f4B17j3UGhkvpnfr3KCcXEzJdPseK2vzCie5fy",  // Replace this with your correct wallet address
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
